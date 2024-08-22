@@ -4,7 +4,7 @@ import bleach
 from gitlab import Gitlab
 
 # Streamlit UI
-st.image("/home/local/PNMAC/rtait/infosec-gen-ai-testing/Roxy/images/security.png", width=700)
+st.image("/image-here", width=700)
 st.caption(
     "Gain actionable insights to strengthen your AppSec compliance. Our Infosec bot analyzes your design and code, providing clear recommendations."
 )
