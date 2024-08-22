@@ -6,7 +6,7 @@ from gitlab import Gitlab
 # Streamlit UI
 st.image("/image-here", width=700)
 st.caption(
-    "Gain actionable insights to strengthen your AppSec compliance. Our Infosec bot analyzes your design and code, providing clear recommendations."
+    "Gain actionable insights to strengthen your AppSec compliance. The BOT analyzes your design, code and provides custom exploits (non-malicious)."
 )
 st.subheader("Infosec Chatbot", divider="rainbow")
 
