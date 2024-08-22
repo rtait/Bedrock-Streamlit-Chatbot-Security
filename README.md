@@ -7,11 +7,11 @@ A chatbot for pentesting, compliance and vulnerability discovery
 How to Set up
 Prereqs:
 
-pip install streamlit
-pip install Python
-pip install boto3
-pip install gitlab
-pip install bleach
+pip install streamlit/ 
+pip install Python/ 
+pip install boto3/ 
+pip install gitlab/ 
+pip install bleach/ 
 
 Commands:
 
